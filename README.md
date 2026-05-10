@@ -3,6 +3,7 @@
 
 Scans the internet for scam, fraud, and propaganda content targeting Singapore.
 Exports results as CSV for reporting and analysis.
+<img width="3424" height="1342" alt="image" src="https://github.com/user-attachments/assets/48d771c6-4442-432a-b732-41d628927cc0" />
 
 ---
 
